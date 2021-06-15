@@ -4,7 +4,7 @@ Prediction Of Repayment Of Loan using TensorFlow2.0 &amp; Kera's
 Problem Statement:
 Prediction Of Repayment Of Loan based on Historical Data
 
-Objective:
+Objective:<br>
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), build a model that can predict wether or not a borrower will pay back their loan. 
 
 Following Conclusion can be drawn from this Project:<br>
