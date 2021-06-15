@@ -1,6 +1,6 @@
 # Neural Nets & Deep Learning Project
-Prediction Of Repayment Of Loan using TensorFlow2.0 &amp; Kera's 
-
+Prediction Of Repayment Of Loan using TensorFlow2.0 &amp; Kera's
+<hr>
 Problem Statement:
 Prediction Of Repayment Of Loan based on Historical Data
 
