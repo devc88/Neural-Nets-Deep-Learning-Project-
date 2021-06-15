@@ -15,4 +15,4 @@ Note:
 (A)Keep in mind classification metrics when evaluating the performance of the model!<br>
 (B)The "loan_status" column contains the label!
 <hr>
-Drive Link (Lending Club Dataset & Trained Model (H5 File)):-<br><a href="https://drive.google.com/drive/folders/1wsKJjbDsUeerI9vCg7eSJyxtlvRVxu1B?usp=sharing">Click Here!</a>
+Drive Link (Lending Club Dataset & Trained Model (H5 File)): <a href="https://drive.google.com/drive/folders/1wsKJjbDsUeerI9vCg7eSJyxtlvRVxu1B?usp=sharing">Click Here!</a>
