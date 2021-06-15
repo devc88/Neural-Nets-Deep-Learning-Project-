@@ -7,7 +7,7 @@ Prediction Of Repayment Of Loan based on Historical Data
 Objective:
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), build a model that can predict wether or not a borrower will pay back their loan. 
 
-Following Conclusion can be drawn from this Project:
+Following Conclusion can be drawn from this Project:<b>
 If in future, when we get a new potential customer we can assess or predict whether or not they are likely to pay back the loan based on their historical Data.
 
 Note: 
